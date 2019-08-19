@@ -1,0 +1,9 @@
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\bin\Release\DisableWinDefenderGUI.exe.config
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\bin\Release\DisableWinDefenderGUI.exe
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\bin\Release\DisableWinDefenderGUI.pdb
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\obj\Release\DisableWinDefenderGUI.Form1.resources
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\obj\Release\DisableWinDefenderGUI.Properties.Resources.resources
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\obj\Release\DisableWinDefenderGUI.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\obj\Release\DisableWinDefenderGUI.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\obj\Release\DisableWinDefenderGUI.exe
+C:\Users\Diogo\source\repos\DisableWinDefenderGUI\DisableWinDefenderGUI\obj\Release\DisableWinDefenderGUI.pdb
